@@ -2,6 +2,9 @@
 
 A futuristic, animated student dashboard prototype built with Next.js 16 (App Router), Supabase, Framer Motion, and Tailwind CSS v4.
 
+* **Live Demo:** [next-gen-learning-dashboard-steel.vercel.app](https://next-gen-learning-dashboard-steel.vercel.app)
+* **GitHub Repository:** [github.com/rahulgurudu-2003/next-gen-learning-dashboard](https://github.com/rahulgurudu-2003/next-gen-learning-dashboard)
+
 ---
 
 ## Architecture Choices
